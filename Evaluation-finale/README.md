@@ -85,6 +85,7 @@ uv run pytest -v
 
 ```bash
 uv run python -m evaluation.run_evaluation
+zo
 ```
 
 Execute 10 questions simples + 10 questions complexes, mesure le temps de
