@@ -1,6 +1,6 @@
 # AI Agentic — Master BDCC
 
-Depot unique regroupant tous les Labs et TPs du module **SMA et IAD — Master BDCC | Prof. RETAL SARA**.
+Depot unique regroupant tous les Labs et TPs du module **SMA et IAD — Master BDCC | Prof. RETAL SARA**..
 
 ## Structure
 
