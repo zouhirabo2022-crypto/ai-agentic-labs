@@ -2,6 +2,7 @@
 
 Projet structure a partir du document `1 TP Ingenierie des prompts.docx`.
 
+
 ## Contenu
 
 - `01_tokenisation.py` : tokenisation avec `tiktoken`
